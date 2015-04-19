@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"BracketHighlighter",
+		"Chef",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CSScomb",
+		"Emmet",
+		"File History",
+		"FileBrowser",
+		"FileDiffs",
+		"Gist",
+		"HTML5",
+		"jQuery",
+		"Local History",
+		"Package Control",
+		"Package Syncing",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Flatland"
+	]
+}
